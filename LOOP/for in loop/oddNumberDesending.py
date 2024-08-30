@@ -7,7 +7,7 @@ else:
     for i in range(n,0,-2):
 
         # otherwise
-
+        
         # if(i%2==0):
         # i=i-1
         
