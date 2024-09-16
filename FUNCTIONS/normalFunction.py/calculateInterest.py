@@ -8,8 +8,8 @@ def calculate_simple_interest(principle,rate,time):
     return calculate_interest , Total_Amount
 
 principle = int(input("Enter principle amount: "))
-rate = int(input("Enter interest_rate amount: "))
-time = int(input("Enter time_period amount: "))
+rate = int(input("Enter interest_rate: "))
+time = int(input("Enter time_period: "))
 
 calculateInterest,Total_Amount = calculate_simple_interest(principle,rate,time)
 
