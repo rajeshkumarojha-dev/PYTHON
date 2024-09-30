@@ -8,4 +8,4 @@ while count<=500:
     pyautogui.press("enter")
     count = count+1
 
-    # code for auto generate text in whatsapp
+    # code for auto generate text in whatsapp     
