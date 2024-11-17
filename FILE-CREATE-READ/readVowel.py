@@ -19,7 +19,7 @@ def read_vowel_words(file_path):
 
     try:
         # Open and read the file
-        with open(file_path, 'r') as file:
+        with open(file_path, 'w') as file:
             for line in file:
                 # Split each line into words
                 words = line.split()
